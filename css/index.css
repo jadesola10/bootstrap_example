@@ -10,6 +10,8 @@ a {
 }
 .navbar-default .navbar-brand {
     color: #F5F9E9;
+    font-weight: bold;
+    font-size: 25px;
 }
 .navbar-default .navbar-nav>li>a {
     color: #C9B79C;
