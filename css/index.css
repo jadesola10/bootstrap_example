@@ -1,0 +1,64 @@
+body {
+	font-family: Lora;
+}
+a {
+	font-size: 20px;
+}
+.navbar-default {
+    background-color: #C98986;
+    border-color: pink;
+}
+.navbar-default .navbar-brand {
+    color: #F5F9E9;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #C9B79C;
+}
+
+
+#homecolor {
+    color: black;
+    font-weight: bolder;
+}
+#workexperiencecolor {
+
+	color: black;
+	font-weight: bolder;
+}
+#achievementscolor {
+
+	color: black;
+	font-weight: bolder;
+}
+
+.img_circle {
+	border-radius: circle;
+	float: center;
+	width: 75%;
+}
+
+img {
+	width: 100%;
+}
+
+#homeme {
+	margin-top: 70px;
+}
+
+.row {
+	padding: 10px;
+}
+
+h1 { color: #C9B79C;
+
+}
+h3 {
+	padding-bottom: 10px;
+}
+
+h4{
+	color: #C98986
+}
+h5 {
+	font-size: 17px;
+}
